@@ -93,7 +93,11 @@ This assignment introduces the GPIO pins of the micro:bit. _Refer to the [criter
 
 ## Measurements
 
-V<sub>LED</sub>=2.028V  I=9.012mA  R<sub>LED</sub>=V<sub>LED</sub>/I=2.028V/0.009012A=225.0 Ohms
+V<sub>LED</sub> = 2.028V
+
+I = 9.012mA
+
+R<sub>LED</sub> = V<sub>LED</sub>/I = 2.028V/0.009012A = 225.0 Ohms
 
 ## Demo videos
 
