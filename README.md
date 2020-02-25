@@ -101,6 +101,8 @@ R<sub>LED</sub> = V<sub>LED</sub>/I = 2.028V/0.009012A = 225.0 Ohms
 
 ## Demo videos
 
+Video of simple LED circuit [here](https://imgur.com/3QkBJwT).
+
 Video of _tutorial.js_ running [here](https://imgur.com/4ezr62F).
 
 Video of _enable-matrix.js_ running [here](https://imgur.com/hUIpDxB).
