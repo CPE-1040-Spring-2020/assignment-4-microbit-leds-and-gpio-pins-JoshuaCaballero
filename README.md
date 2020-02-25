@@ -97,4 +97,6 @@ _TODO: Record and describe your circuit measurements and calculations here._
 
 ## Demo videos
 
-_TODO: Add your video descriptions and URLs here. The videos should clearly show the completion of the corresponding task._
+Video of _tutorial.js_ running [here](https://imgur.com/4ezr62F)
+Video of _enable-matrix.js_ running [here](https://imgur.com/hUIpDxB)
+Video of _twenty-eight.js_ running [here](https://imgur.com/AdPTomf)
